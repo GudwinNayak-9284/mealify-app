@@ -16,7 +16,7 @@ A beautiful and feature-rich recipe discovery application built with React Nativ
 
 Welcome Screen| Home Screen | Search Screen | Favorites Screen | Meal Detail |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Welcome Screen](../mealify-app/assets/screenshots/welcome-screen.jpeg) | ![Home Screen](../mealify-app/assets/screenshots/home-screen.jpeg) | ![Search Screen](../mealify-app/assets/screenshots/search-screen.jpeg) | ![Favorites Screen](../mealify-app/assets/screenshots/favorite-screen.jpeg) | ![Meal Detail](../mealify-app/assets/screenshots/meal-details-screen.jpeg) |
+| ![Welcome Screen](assets/screenshots/welcome-screen.jpeg) | ![Home Screen](assets/screenshots/home-screen.jpeg) | ![Search Screen](assets/screenshots/search-screen.jpeg) | ![Favorites Screen](assets/screenshots/favorite-screen.jpeg) | ![Meal Detail](assets/screenshots/meal-details-screen.jpeg) |
 
 
 ## 🛠️ Setup Instructions
