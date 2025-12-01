@@ -14,9 +14,9 @@ A beautiful and feature-rich recipe discovery application built with React Nativ
 
 ## 📸 Screenshots
 
-Welcome Screen| Home Screen | Search Screen | Favorites Screen | Meal Detail |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Welcome Screen](assets/screenshots/welcome-screen.jpeg) | ![Home Screen](assets/screenshots/home-screen.jpeg) | ![Search Screen](assets/screenshots/search-screen.jpeg) | ![Favorites Screen](assets/screenshots/favorite-screen.jpeg) | ![Meal Detail](assets/screenshots/meal-details-screen.jpeg) |
+Welcome Screen| Home Screen | Search Screen | Favorites Screen | Meal Detail | Profile Screen |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![Welcome Screen](assets/screenshots/welcome-screen.jpeg) | ![Home Screen](assets/screenshots/home-screen.jpeg) | ![Search Screen](assets/screenshots/search-screen.jpeg) | ![Favorites Screen](assets/screenshots/favorite-screen.jpeg) | ![Meal Detail](assets/screenshots/meal-details-screen.jpeg) | ![Profile Screen](assets/screenshots/profile-screen.jpeg)
 
 
 ## 🛠️ Setup Instructions
